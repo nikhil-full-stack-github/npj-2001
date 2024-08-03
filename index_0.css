@@ -1,0 +1,272 @@
+html, body {
+   overflow-x: hidden;
+   margin: 0;
+   padding: 0;
+}
+
+.custom-bg {
+   background-color: #007bff;
+ }
+
+ .sty-1{
+    
+   text-align: start;
+   color: green;
+   font-size: 60px;
+ }
+
+
+ .container-1{
+
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+ }
+
+ .sty-2{
+
+    color: white;
+
+
+ }
+
+ .container-3{
+
+      background-color: green;
+
+ }
+
+
+#sty-7{
+
+ 
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+
+
+ }
+
+ #sty-8{
+
+   
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   background-color: green;
+
+ }
+
+ #nikhil{
+
+  background-color: green;
+
+ }
+
+ #sty-9{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+
+#sty-10{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+
+
+#sty-11{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+  
+#sty-12{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+
+#sty-13{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+
+#sty-14{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+
+#sty-14{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+
+#sty-15{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+
+#sty-16{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+
+#sty-17{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+
+#sty-18{
+
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+
+}
+
+#index-100{
+
+   background-color: skyblue;
+
+}
+
+
+#index-101{
+
+  background-color: skyblue;
+
+}
+
+#index-102{
+
+  background-color: skyblue; 
+
+
+}
+
+#index-103{
+
+  background-color: skyblue; 
+
+
+}
+
+
+
+#index-104{
+
+  color: green;
+  font-size: 60px;
+}
+
+
+#index-106{
+
+   width: 100%;
+   height: 100%;
+
+}
+
+#index-107{
+
+   font-size: 60px;
+   color: green;
+
+}
+
+
+#index-108{
+
+
+   color: cornflowerblue;
+   font-size: 60px;
+margin-left: 15px;
+}
+
+#index-120{
+
+  background-color: green;
+
+
+}
+
+.index-121{
+
+  color: white;
+}
+
+#index-130{
+
+  color: green;
+  font-size: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

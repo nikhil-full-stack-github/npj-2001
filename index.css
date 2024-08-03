@@ -1,0 +1,640 @@
+@media (min-width: 1201px){
+
+  .index-8{
+    max-width: 1200px;
+    width: 1200px;
+    height: 500px;
+    width: 100vh;
+    } 
+
+
+}
+
+
+
+@media (min-width: 78px) and (max-width: 480px){
+
+  *{
+      overflow: auto;
+   }
+  .index-8{
+  max-width: 480px;
+  width: 480px;
+  width: 100vh;
+  }
+  
+  .sty-4{
+  
+      width: 20px;
+      height: 20px;
+  }
+  .index-80{
+  
+      font-size: 10px;
+  }
+  .sty-7{
+  
+      font-size: 20px;
+  }
+  
+  .sty-2{
+  
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      
+  }
+  
+  .sty-5{
+  
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      text-align: center;
+  
+  }
+  
+  .sty-6{
+  
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+  }  
+  
+  .index-77{
+  
+    max-width: 480px;
+    width: 480px;
+    display: grid;
+    grid-template-columns: 1fr;
+  
+  
+  }
+  
+  .index-38{
+  
+  text-align: center;
+  
+  }
+  
+  .index-14{
+  
+      text-align: center;
+  }
+  
+  .index-35{
+  
+  max-width: 480px;
+  width: 480px;
+  max-height: 480;
+  height: 480px;
+  
+  
+  }
+  
+  .index-15{
+  
+      display: grid;
+      grid-template-columns: 1fr;
+      
+  
+  }
+
+  .index-16{
+
+  text-align: center;
+
+  }
+  
+  
+  .index-36{
+  
+  max-width: 480px;
+  width: 480px;
+  
+  }
+  
+} 
+  
+
+
+@media (min-width: 481px) and (max-width: 768px){
+
+  *{
+      overflow: auto;
+   }
+  .index-8{
+  max-width: 768px;
+  width: 768px;
+  width: 100vh;
+  }
+  
+  .sty-4{
+  
+      width: 25px;
+      height: 25px;
+  }
+  .index-80{
+  
+      font-size: 10px;
+  }
+  .sty-7{
+  
+      font-size: 20px;
+  }
+  
+  .sty-2{
+  
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      
+  }
+  
+  .sty-5{
+  
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      text-align: center;
+  
+  }
+  
+  .sty-6{
+  
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+  }  
+  
+  .index-77{
+   
+      width: 383px;
+      height: 320px;
+  
+  
+  }
+
+.sty-21{
+
+max-width: 768px;
+width: 768px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+
+
+}  
+  
+  .index-38{
+  
+  text-align: center;
+  
+  }
+  
+  .index-14{
+  
+      text-align: center;
+  }
+  
+  .index-35{
+  
+      width: 383px;
+      height: 320px;
+  
+  
+  }
+  
+  .index-15{
+  
+     
+      max-width: 768px;
+     width: 768px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  
+  }
+
+  .index-16{
+
+  text-align: center;
+
+  }
+  
+  
+  .index-36{
+  
+      width: 383px;
+      height: 320px;
+  
+  
+  }
+
+
+.index-105{
+
+  max-width: 768px;
+     width: 768px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+
+}   
+  
+
+} 
+
+@media (min-width: 769px) and (max-width: 1024px){
+
+  *{
+      overflow: auto;
+   }
+  .index-8{
+  max-width: 1024px;
+  width: 1024px;
+  height: 500px;
+  width: 100vh;
+  }
+  
+  .sty-4{
+  
+      width: 70px;
+      height: 60px;
+  }
+  .index-80{
+  
+      font-size: 10px;
+  }
+  .sty-7{
+  
+      font-size: 20px;
+  }
+  
+  .sty-2{
+  
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      
+  }
+  
+  .sty-5{
+  
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      text-align: center;
+      gap: 8px;
+  
+  }
+  
+  .sty-6{
+  
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+  }  
+  
+  .index-77{
+   
+      width: 512px;
+      height: 480px;
+  
+  
+  }
+
+.sty-21{
+
+max-width: 1024px;
+width: 1024px;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+
+
+}  
+  
+  .index-38{
+  
+  text-align: center;
+  
+  }
+  
+  .index-14{
+  
+      text-align: center;
+  }
+  
+  .index-35{
+  
+      width: 512px;
+      height: 480px;
+  
+  
+  }
+  
+  .index-15{
+  
+     
+     max-width: 1024px;
+     width: 1024px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  
+  }
+
+  .index-16{
+
+  text-align: center;
+
+  }
+  
+  
+  .index-36{
+  
+      width: 341px;
+      height: 341px;
+  
+  
+  }
+
+
+.sty-52{
+     max-width: 1024px;
+     width: 1024px;
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+}   
+
+.index-19{
+
+  font-size: 60px;
+
+}
+
+.sty-200{
+
+width: 350px;
+height: 300px;
+
+}
+
+.index-39{
+
+font-size: 30px;
+
+}
+
+.index-300{
+
+font-size: 30px;
+
+}
+
+.index-201{
+
+font-size: 30px;
+
+}
+  
+
+} 
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+    * {
+      overflow: auto;
+    }
+  
+    .index-8 {
+      max-width: 1200px;
+      width: 1200px;
+      height: 500px;
+    }
+    
+    .sty-4 {
+      width: 90px;
+      height: 80px;
+    }
+  
+    .index-80 {
+      font-size: 20px;
+    }
+  
+    .sty-7 {
+      font-size: 20px;
+    }
+  
+    .sty-2 {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  
+    .sty-5 {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      text-align: center;
+      gap: 8px;
+    }
+  
+    .sty-6 {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+    }  
+    
+    .index-77 {
+      width: 300px;
+      height: 300px;
+    }
+  
+    .sty-21 {
+      max-width: 1200px;
+      width: 1200px;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }  
+    
+    .index-38 {
+      text-align: center;
+    }
+  
+    .index-14 {
+      text-align: center;
+    }
+  
+    .index-35 {
+      width: 300px;
+      height: 300px;
+    }
+  
+    .index-15 {
+      max-width: 1200px;
+      width: 1200px;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  
+    .index-16 {
+      text-align: center;
+    }
+    
+    .index-36 {
+      width: 300px;
+      height: 300px;
+    }
+  
+    .sty-52 {
+      max-width: 1200px;
+      width: 1200px;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }   
+  
+    .index-19 {
+      font-size: 60px;
+    }
+  
+    .sty-200 {
+      width: 350px;
+      height: 300px;
+    }
+  
+    .index-39 {
+      font-size: 30px;
+    }
+  
+    .index-300 {
+      font-size: 30px;
+    }
+  
+    .index-201 {
+      font-size: 30px;
+    }
+  }
+
+  @media (min-width: 1201px) and (max-width: 1400px) {
+    * {
+        overflow: auto;
+    }
+
+    .index-8 {
+        max-width: 1400px;
+        width: 1400px;
+        height: 500px;
+    }
+
+    .sty-4 {
+        width: 100px;
+        height: 90px;
+    }
+
+    .index-80 {
+        font-size: 24px;
+    }
+
+    .sty-7 {
+        font-size: 24px;
+    }
+
+    .sty-2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .sty-5 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .sty-6 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .index-77 {
+        width: 350px;
+        height: 350px;
+    }
+
+    .sty-21 {
+        max-width: 1400px;
+        width: 1400px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+    .index-38 {
+        text-align: center;
+    }
+
+    .index-14 {
+        text-align: center;
+    }
+
+    .index-35 {
+        width: 350px;
+        height: 350px;
+    }
+
+    .index-15 {
+        max-width: 1400px;
+        width: 1400px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+    .index-16 {
+        text-align: center;
+    }
+
+    .index-36 {
+        width: 350px;
+        height: 350px;
+    }
+
+    .sty-52 {
+        max-width: 1400px;
+        width: 1400px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+    .index-19 {
+        font-size: 70px;
+    }
+
+    .sty-200 {
+        width: 400px;
+        height: 350px;
+    }
+
+    .index-39 {
+        font-size: 35px;
+    }
+
+    .index-300 {
+        font-size: 35px;
+    }
+
+    .index-201 {
+        font-size: 35px;
+    }
+}
+
+#index-1000{
+
+    color: green;
+
+}
+
+
+
+
+
+
+
